@@ -63,7 +63,7 @@ module.exports = {
     ],
     extra: {
       eas: {
-        projectId: "a464276c-d3a4-4e5b-9f83-ae490abde521",
+        projectId: "2655de30-8a6d-4f1a-a272-5c712f9abc98",
       },
       mapboxPublicToken: (process.env.EXPO_PUBLIC_MAPBOX_PUBLIC_TOKEN || "").trim(),
     },
