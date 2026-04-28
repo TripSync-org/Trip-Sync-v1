@@ -1,4 +1,4 @@
-node_modules/
+﻿node_modules/
 .expo/
 .git
 .env
@@ -33,6 +33,6 @@ yarn-error.*
 backend/
 frontend/
 sql/
-api/
+/api/
 shared/
 scripts/
