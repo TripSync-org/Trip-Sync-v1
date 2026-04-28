@@ -2,7 +2,8 @@
   "cli": {
     "version": ">= 18.8.1",
     "appVersionSource": "remote",
-    "promptToConfigurePushNotifications": false
+    "promptToConfigurePushNotifications": false,
+    "requireCommit": true
   },
   "build": {
     "development": {
