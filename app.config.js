@@ -24,7 +24,7 @@ module.exports = {
       },
     },
     android: {
-      package: "com.tripsync.mobile",
+      package: "com.tripsync.app",
       versionCode: 1,
       usesCleartextTraffic: true,
       permissions: [
